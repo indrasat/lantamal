@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-<Document id="root_doc">
-<Folder><name>Lantamal_V</name>
-  <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-      <Polygon><altitudeMode>clampToGround</altitudeMode><outerBoundaryIs><LinearRing><altitudeMode>clampToGround</altitudeMode><coordinates>108.875991735537,-6.82133936653722 109.069784955304,-4.06285885692328 110.155026986001,-4.62324315900489 111.93792460786,-4.91292668992982 113.992132737392,-5.18318459688054 114.515374430764,-4.99015468171671 116.49206527239,-5.41474245944629 116.337030696576,-7.59038387491528 115.54247849553,-7.51353897174417 115.833168325181,-8.01278175459912 115.697513071344,-9.08594833797546 114.263443245067,-8.95197028695002 113.158821892393,-8.66470913850852 111.879786641929,-8.60723032537095 111.123993084837,-8.49224656747933 110.561992747512,-8.31970645059094 109.341095462979,-7.9743997046841 108.585301905886,-8.08953498032486 108.875991735537,-6.82133936653722</coordinates></LinearRing></outerBoundaryIs></Polygon>
-  </Placemark>
-</Folder>
-</Document></kml>
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Lantamal V</name>
+		<description><![CDATA[]]></description>
+		<NetworkLink>
+			<name>Lantamal V</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1X4K7pKBw64ELwJ_FQ4vt1IYVhOE</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
