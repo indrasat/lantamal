@@ -1,13 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<kml xmlns='http://www.opengis.net/kml/2.2'>
-	<Document>
-		<name>Lantamal V</name>
-		<description><![CDATA[]]></description>
-		<NetworkLink>
-			<name>Lantamal V</name>
-			<Link>
-				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1X4K7pKBw64ELwJ_FQ4vt1IYVhOE</href>
-			</Link>
-		</NetworkLink>
-	</Document>
-</kml>
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>LantamalV</name>
+  <Placemark>
+      <Point><coordinates>112.732476808905,-7.24447563577481</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
